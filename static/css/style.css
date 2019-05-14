@@ -1,0 +1,70 @@
+body{
+   background-color: yellow; opacity: 1; transition: 1s opacity;
+}
+
+body.fade-out {
+    opacity: 0;
+    transition: none;
+}
+.glyphicon-play {
+ position:absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    font-size: 200px;
+}
+a:link {
+    color:red
+}
+.glyphicon-play:hover{
+    color: red;
+    font-size: 250px;
+     background:linear-gradient(blue,yellow);
+}
+.glyphicon-arrow-left{
+    font-size: 50px;
+}
+.glyphicon-arrow-left:hover{
+    font-weight: bold;
+}
+.btn-success{
+    height: 100%;width:100%;font-size:65px; color: red
+}
+.btn-danger{
+    height: 100%;width:100%; font-size: 65px; color: blue;
+}
+.btn-danger:hover
+{
+    font-weight: bold;
+}
+.btn-success:hover
+{
+    font-weight: bold;
+}
+.btn-default{
+    width: 150px;
+    height: 120px;
+    font-size: 80px;
+    color: red;
+    border: blue solid 4px;
+}
+.btn-default:hover{
+    font-weight: bold;
+     color: blue;
+}
+.btn-info{
+    width: 200px;
+    height: 75px;
+    font-size: 30px;
+    color: blue;
+    border: green solid 4px;
+}
+.btn-info:hover{
+    font-weight: bold;
+    color:green;
+}
+img{
+    position: relative; left:30px;top:50px;
+    height:400px; width: 400px;
+    border-radius: 50%;
+}

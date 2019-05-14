@@ -1,0 +1,33 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>INTERACTIVE BOARD</title>
+<link rel="stylesheet" type="text/css" href="static/css/bootstrap.min.css"/>
+<link rel="stylesheet" type="text/css" href="static/css/style.css"/>
+<script type="text/javascript" src="static/js/jquery.min.js"></script>
+<script type="text/javascript" src="static/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="static/js/fade.js"></script>
+    <script type="text/javascript" src="static/js/play.js"></script>
+</head>
+<div class="container-fluid">
+    <body class="fade-out">
+        <div class="col-sm-2">
+            <a href="selection.html"><span class="glyphicon glyphicon-arrow-left">GO <br />BACK</span></a>
+        </div>
+        <div class="col-sm-10">
+            <div class="row">
+            <button  class="btn btn btn-default" >0</button> <button class="btn btn btn-default">1</button>
+               <button class="btn btn btn-default">2</button> <button class="btn btn btn-default">3</button>
+               <button class="btn btn btn-default">4</button> <button class="btn btn btn-default">5</button>
+              <button class="btn btn btn-default">6</button> <button class="btn btn btn-default">7</button>
+              <button class="btn btn btn-default">8</button> <button class="btn btn btn-default">9</button>
+                          </div>
+            <br />
+            <div class="row">
+              <button  onclick="playSound()" class="btn btn-info" >Play</button>
+              <button  onclick="pause()" class="btn btn-info" style="position: relative;left:40px ">Pause</button>
+              <button  onclick="playSound()" class="btn btn-info" style="position: relative;left:80px ">Repeat</button>
+            </div>
+        </div>
+    </body>
+</div>
