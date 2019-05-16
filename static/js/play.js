@@ -3,8 +3,8 @@ const sound = new Audio()
     button.addEventListener('click', playSound)
  button.addEventListener('click', pause)
 
-function playSound() {
-    sound.src = 'static/audio/nums.aac'
+function playSound(i) {
+    sound.src = i
     sound.play()
 }
 

@@ -16,15 +16,20 @@
         </div>
         <div class="col-sm-10">
             <div class="row">
-            <button  class="btn btn btn-default" >0</button> <button class="btn btn btn-default">1</button>
-               <button class="btn btn btn-default">2</button> <button class="btn btn btn-default">3</button>
-               <button class="btn btn btn-default">4</button> <button class="btn btn btn-default">5</button>
-              <button class="btn btn btn-default">6</button> <button class="btn btn btn-default">7</button>
-              <button class="btn btn btn-default">8</button> <button class="btn btn btn-default">9</button>
+            <button  class="btn btn btn-default" onclick="playSound('static/audio/numbers/0.aac')">0</button>
+                <button class="btn btn btn-default" onclick="playSound('static/audio/numbers/1.aac')">1</button>
+               <button class="btn btn btn-default" onclick="playSound('static/audio/numbers/2.aac')">2</button>
+                <button class="btn btn btn-default" onclick="playSound('static/audio/numbers/3.aac')">3</button>
+               <button class="btn btn btn-default" onclick="playSound('static/audio/numbers/4.aac')">4</button>
+                <button class="btn btn btn-default" onclick="playSound('static/audio/numbers/5.aac')">5</button>
+              <button class="btn btn btn-default" onclick="playSound('static/audio/numbers/6.aac')">6</button>
+                <button class="btn btn btn-default" onclick="playSound('static/audio/numbers/7.aac')" >7</button>
+              <button class="btn btn btn-default" onclick="playSound('static/audio/numbers/8.aac')">8</button>
+                <button class="btn btn btn-default" onclick="playSound('static/audio/numbers/9.aac')">9</button>
                           </div>
             <br />
             <div class="row">
-              <button  onclick="playSound()" class="btn btn-info" >Play</button>
+              <button  onclick="playSound('static/audio/numbers/numb.aac')" class="btn btn-info" >Play</button>
               <button  onclick="pause()" class="btn btn-info" style="position: relative;left:40px ">Pause</button>
               <button  onclick="playSound()" class="btn btn-info" style="position: relative;left:80px ">Repeat</button>
             </div>

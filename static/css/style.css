@@ -65,6 +65,6 @@ a:link {
 }
 img{
     position: relative; left:30px;top:50px;
-    height:400px; width: 400px;
+    height:60%; width: 70%;
     border-radius: 50%;
 }
