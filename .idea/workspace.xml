@@ -2,88 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0222b53-ea38-49ec-a7f9-16a73fbae600" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/audio/letters/apple.aac" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/audio/letters/ball.aac" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/audio/letters/cat.aac" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/audio/letters/dog.aac" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/audio/letters/egg.aac" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/audio/letters/eraser.mp3" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/audio/letters/fish.aac" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/audio/letters/giraffe.aac" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/audio/letters/hat.aac" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/audio/letters/icecream.aac" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/audio/letters/jug.aac" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/audio/letters/kite.aac" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/audio/letters/lion.aac" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/audio/letters/mouse.aac" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/audio/letters/nose.aac" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/audio/letters/nums.aac" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/audio/letters/orange.aac" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/audio/letters/pineapple.aac" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/audio/letters/queen.aac" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/audio/letters/rabbit.aac" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/audio/letters/sing.aac" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/audio/letters/snake.aac" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/audio/letters/tree.aac" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/audio/letters/umbrella.aac" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/audio/letters/van.aac" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/audio/letters/wolf.aac" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/audio/letters/xylophone.aac" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/audio/letters/yam.aac" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/audio/letters/zebra.aac" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/audio/numbers/0.aac" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/audio/numbers/1.aac" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/audio/numbers/2.aac" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/audio/numbers/3.aac" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/audio/numbers/4.aac" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/audio/numbers/5.aac" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/audio/numbers/6.aac" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/audio/numbers/7.aac" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/audio/numbers/8.aac" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/audio/numbers/9.aac" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/audio/numbers/numb.aac" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/images/ball1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/images/dog.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/images/egg.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/images/fish.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/images/flower.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/images/flowers.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/images/giraffe.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/images/giraffe1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/images/girl.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/images/girrafe.webp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/images/hat.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/images/icecream.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/images/jug.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/images/kite.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/images/lion.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/images/lion1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/images/lion2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/images/monkey.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/images/mouse.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/images/nose.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/images/orange.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/images/pine.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/images/pine1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/images/queen.PNG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/images/rabbit.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/images/snake.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/images/template.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/images/tree.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/images/umbrella.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/images/van.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/images/wolf.PNG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/images/xylophone.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/images/yam.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/images/yam1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/images/zebre.jpg" />
-      <change beforePath="$PROJECT_DIR$/letters.html" afterPath="$PROJECT_DIR$/letters.html" />
-      <change beforePath="$PROJECT_DIR$/numbers.html" afterPath="$PROJECT_DIR$/numbers.html" />
-      <change beforePath="$PROJECT_DIR$/static/css/style.css" afterPath="$PROJECT_DIR$/static/css/style.css" />
-      <change beforePath="$PROJECT_DIR$/static/js/image.js" afterPath="$PROJECT_DIR$/static/js/image.js" />
-      <change beforePath="$PROJECT_DIR$/static/js/play.js" afterPath="$PROJECT_DIR$/static/js/play.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/webServers.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -320,6 +240,14 @@
       <option name="presentableId" value="Default" />
       <updated>1557735575514</updated>
     </task>
+    <task id="LOCAL-00001" summary="Updated">
+      <created>1557987754190</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1557987754190</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -333,13 +261,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-16" y="-16" width="3872" height="2092" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.50107294" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.49892703" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32954547" sideWeight="0.49892703" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.49892703" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12553649" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -361,6 +291,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

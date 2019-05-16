@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="https://github.com/doyin315/raspi_web" uploadOnCheckin="9cbe8a6c-a5a9-4d26-9962-485e9a03e037">
+    <serverData>
+      <paths name="https://github.com/doyin315/raspi_web">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myUploadOnCheckinName" value="https://github.com/doyin315/raspi_web" />
+  </component>
+</project>

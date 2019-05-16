@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9cbe8a6c-a5a9-4d26-9962-485e9a03e037" name="https://github.com/doyin315/raspi_web" url="http://localhost">
+        <fileTransfer port="0" mountedRoot="C:\Users\DOYIN\PycharmProjects\raspi_web" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
