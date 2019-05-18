@@ -1,15 +1,20 @@
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>INTERACTIVE BOARD</title>
-<link rel="stylesheet" type="text/css" href="static/css/bootstrap.min.css"/>
-<link rel="stylesheet" type="text/css" href="static/css/style.css"/>
-<script type="text/javascript" src="static/js/jquery.min.js"></script>
-<script type="text/javascript" src="static/js/bootstrap.min.js"></script>
-<script type="text/javascript" src="static/js/fade.js"></script>
-</head>
-<div class="container-fluid">
-    <body class="fade-out">
-            <a href="selection.html"><span class="glyphicon glyphicon-play">PLAY</span></a>
-    </body>
-</div>
+    <head>
+        <meta charset="UTF-8">
+        <title>INTERACTIVE BOARD</title>
+    <link rel="stylesheet" type="text/css" href="static/css/bootstrap.min.css"/>
+    <link rel="stylesheet" type="text/css" href="static/css/style.css"/>
+        <link rel="stylesheet" type="text/css" href="static/css/animate.css"/>
+        <link rel="stylesheet" href="static/fonts/ButterflyKids-Regular.ttf">
+    <script type="text/javascript" src="static/js/jquery.min.js"></script>
+    <script type="text/javascript" src="static/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="static/js/fade.js"></script>
+        <script type="text/javascript" src="static/js/sound-mouseover.js"></script>
+    </head>
+    <div class="container-fluid">
+        <body class="fade-out animated swing">
+                <a href="selection.html" onmouseover="playclip()"><span class="glyphicon glyphicon-play ">PLAY</span></a>
+    <audio src="static/audio/abc.mp3" loop hidden autoplay ></audio>
+        </body>
+    </div>
+</html>

@@ -8,8 +8,8 @@ function playSound(i) {
     sound.play()
 }
 
-function pause() {
-    sound.src = 'static/audio/nums.aac'
+function pause(i) {
+    sound.src = i
     sound.pause()
 }
 

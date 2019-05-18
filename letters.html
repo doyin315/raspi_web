@@ -8,53 +8,57 @@
 <script type="text/javascript" src="static/js/bootstrap.min.js"></script>
 <script type="text/javascript" src="static/js/fade.js"></script>
     <script type="text/javascript" src="static/js/image.js"></script>
+    <script type="text/javascript" src="static/js/play.js"></script>
+    <link rel="stylesheet" type="text/css" href="static/css/animate.css"/>
 </head>
 <div class="container-fluid">
-    <body class="fade-out">
+    <body class="fade-out animated bounceInDown">
         <div class="col-sm-4">
             <div class="row">
                 <a href="selection.html"><span class="glyphicon glyphicon-arrow-left">GO <br/>BACK</span></a>
             </div>
             <div class="row">
-                <img  src="" id="x"/><br /><br/>
+                <img  src="static/images/abc1.jpg" id="x"/><br />
                 <h2 id="y"></h2>
             </div>
 
             </div>
           <div class="col-sm-8">
-              <div class="row">
-          <button class="btn btn btn-default" onclick="ReplacingImage('static/images/apple.jpg','APPLE','static/audio/letters/apple.aac')" >Aa</button>
-          <button class="btn btn btn-default" onclick="ReplacingImage('static/images/ball1.jpg','BALL','static/audio/letters/ball.aac')">Bb</button>
-           <button class="btn btn btn-default" onclick="ReplacingImage('static/images/cat.jpg','CAT','static/audio/letters/cat.aac')">Cc</button>
-          <button class="btn btn btn-default" onclick="ReplacingImage('static/images/dog.jpg','DOG','static/audio/letters/dog.aac')">Dd</button>
-          <button class="btn btn btn-default" onclick="ReplacingImage('static/images/egg.png','EGG','static/audio/letters/egg.aac')">Ee</button>
-          <button class="btn btn btn-default" onclick="ReplacingImage('static/images/fish.png','FISH','static/audio/letters/fish.aac')">Ff</button>
-           <button class="btn btn btn-default" onclick="ReplacingImage('static/images/giraffe1.png','GIRAFFE','static/audio/letters/giraffe.aac')">Gg</button>
-          <button class="btn btn btn-default" onclick="ReplacingImage('static/images/hat.png','HAT','static/audio/letters/hat.aac')">Hh</button>
-          <button class="btn btn btn-default" onclick="ReplacingImage('static/images/icecream.jpg','ICECREAM','static/audio/letters/icecream.aac')">Ii</button>
-          <button class="btn btn btn-default" onclick="ReplacingImage('static/images/jug.jpg','JUG','static/audio/letters/jug.aac')">Jj</button>
-         <button class="btn btn btn-default"  onclick="ReplacingImage('static/images/kite.jpg','KITE','static/audio/letters/kite.aac')">Kk</button>
-          <button class="btn btn btn-default" onclick="ReplacingImage('static/images/lion2.jpg','LION','static/audio/letters/lion.aac')">Ll</button>
-         <button class="btn btn btn-default" onclick="ReplacingImage('static/images/mouse.jpg','MONKEY','static/audio/letters/mouse.aac')">Mm</button>
-          <button class="btn btn btn-default" onclick="ReplacingImage('static/images/nose.jpg','NOSE','static/audio/letters/nose.aac')">Nn</button>
-          <button class="btn btn btn-default" onclick="ReplacingImage('static/images/orange.jpg','ORANGE','static/audio/letters/orange.aac')">Oo</button>
-          <button class="btn btn btn-default" onclick="ReplacingImage('static/images/pine.jpg','PINEAPPLE','static/audio/letters/pineapple.aac')">Pp</button>
-          <button class="btn btn btn-default" onclick="ReplacingImage('static/images/queen.PNG','QUEEN','static/audio/letters/queen.aac')">Qq</button>
-          <button class="btn btn btn-default" onclick="ReplacingImage('static/images/rabbit.jpg','RABBIT','static/audio/letters/rabbit.aac')">Rr</button>
-         <button class="btn btn btn-default" onclick="ReplacingImage('static/images/snake.jpg','SNAKE','static/audio/letters/snake.aac')">Ss</button>
-          <button class="btn btn btn-default" onclick="ReplacingImage('static/images/tree.jpg','TREE','static/audio/letters/tree.aac')">Tt</button>
-          <button class="btn btn btn-default" onclick="ReplacingImage('static/images/umbrella.png','UMBRELLA','static/audio/letters/umbrella.aac')">Uu</button>
-          <button class="btn btn btn-default" onclick="ReplacingImage('static/images/van.png','VAN','static/audio/letters/van.aac')">Vv</button>
-         <button class="btn btn btn-default" onclick="ReplacingImage('static/images/wolf.PNG','WOLF','static/audio/letters/wolf.aac')">Ww</button>
-          <button class="btn btn btn-default" onclick="ReplacingImage('static/images/xylophone.jpg','XYLOPHONE','static/audio/letters/xylophone.aac')">Xx</button>
-         <button class="btn btn btn-default" onclick="ReplacingImage('static/images/yam.gif','YAM','static/audio/letters/yam.aac')">Yy</button>
-          <button class="btn btn btn-default" onclick="ReplacingImage('static/images/zebre.jpg','ZEBRA','static/audio/letters/zebra.aac')">Zz</button>
+              <div class="row" ">
+          <button class="btn btn-default" onclick="ReplacingImage('static/images/apple.jpg','APPLE','static/audio/letters/apple.aac')" >Aa</button>
+          <button class="btn btn-default" onclick="ReplacingImage('static/images/ball1.jpg','BALL','static/audio/letters/ball.aac')">Bb</button>
+           <button class="btn btn-default" onclick="ReplacingImage('static/images/cat.jpg','CAT','static/audio/letters/cat.aac')">Cc</button>
+          <button class="btn btn-default" onclick="ReplacingImage('static/images/dog.jpg','DOG','static/audio/letters/dog.aac')">Dd</button>
+          <button class="btn btn-default" onclick="ReplacingImage('static/images/egg.png','EGG','static/audio/letters/egg.aac')">Ee</button>
+          <button class="btn btn-default" onclick="ReplacingImage('static/images/fish.png','FISH','static/audio/letters/fish.aac')">Ff</button>
+           <button class="btn btn-default" onclick="ReplacingImage('static/images/giraffe1.png','GIRAFFE','static/audio/letters/giraffe.aac')">Gg</button>
+          <button class="btn btn-default" onclick="ReplacingImage('static/images/hat.png','HAT','static/audio/letters/hat.aac')">Hh</button>
+          <button class="btn btn-default" onclick="ReplacingImage('static/images/icecream1.jpg','ICECREAM','static/audio/letters/icecream.aac')">Ii</button>
+          <button class="btn btn-default" onclick="ReplacingImage('static/images/jug.jpg','JUG','static/audio/letters/jug.aac')">Jj</button>
+         <button class="btn btn-default"  onclick="ReplacingImage('static/images/kite.jpg','KITE','static/audio/letters/kite.aac')">Kk</button>
+          <button class="btn btn-default" onclick="ReplacingImage('static/images/lion2.jpg','LION','static/audio/letters/lion.aac')">Ll</button>
+         <button class="btn btn-default" onclick="ReplacingImage('static/images/mouse.jpg','MOUSE','static/audio/letters/mouse.aac')">Mm</button>
+          <button class="btn btn-default" onclick="ReplacingImage('static/images/nose.jpg','NOSE','static/audio/letters/nose.aac')">Nn</button>
+          <button class="btn btn-default" onclick="ReplacingImage('static/images/orange.jpg','ORANGE','static/audio/letters/orange.aac')">Oo</button>
+          <button class="btn btn-default" onclick="ReplacingImage('static/images/pine.jpg','PINEAPPLE','static/audio/letters/pineapple.aac')">Pp</button>
+          <button class="btn btn-default" onclick="ReplacingImage('static/images/queen.PNG','QUEEN','static/audio/letters/queen.aac')">Qq</button>
+          <button class="btn btn-default" onclick="ReplacingImage('static/images/rabbit.jpg','RABBIT','static/audio/letters/rabbit.aac')">Rr</button>
+         <button class="btn btn-default" onclick="ReplacingImage('static/images/snake.jpg','SNAKE','static/audio/letters/snake.aac')">Ss</button>
+          <button class="btn btn-default" onclick="ReplacingImage('static/images/tree.jpg','TREE','static/audio/letters/tree.aac')">Tt</button>
+          <button class="btn btn-default" onclick="ReplacingImage('static/images/umbrella.png','UMBRELLA','static/audio/letters/umbrella.aac')">Uu</button>
+          <button class="btn btn-default" onclick="ReplacingImage('static/images/van.png','VAN','static/audio/letters/van.aac')">Vv</button>
+         <button class="btn btn-default" onclick="ReplacingImage('static/images/wolf.PNG','WOLF','static/audio/letters/wolf.aac')">Ww</button>
+          <button class="btn btn-default" onclick="ReplacingImage('static/images/xylophone.jpg','XYLOPHONE','static/audio/letters/xylophone.aac')">Xx</button>
+         <button class="btn btn-default" onclick="ReplacingImage('static/images/yam.gif','YAM','static/audio/letters/yam.aac')">Yy</button>
+          <button class="btn btn-default" onclick="ReplacingImage('static/images/zebra.png','ZEBRA','static/audio/letters/zebra.aac')">Zz</button>
               </div>
               <br />
               <div class="row" style="position: absolute; left:20%">
-                  <button class="btn btn-info" onclick="playSound('static/audio/letters/sing.aac')" style="position: relative;right:40px ">Play</button><button class="btn btn-info">Pause</button><button class="btn btn-info"
-              style="position: relative;left:40px ">Repeat</button>
+                  <button class="btn btn-info" onclick="playSound('static/audio/letters/sing.aac')" style="position: relative;right:40px ">Play</button>
+                  <button class="btn btn-info" onclick="pause('static/audio/letters/sing.aac')">Pause</button>
+                  <button class="btn btn-info" style="position: relative;left:40px ">Repeat</button>
               </div>
           </div>
     </body>
 </div>
+</html>
