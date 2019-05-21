@@ -17,11 +17,9 @@ function pause(i) {
  //   ReplacingImage(path)
 //})
 
-function ReplacingImage(i,j,k){
-
+function ReplacingImage(i,j,k)
+{
     document.getElementById("x").src=i
     document.getElementById("y").innerHTML=j
     playSound(k)
-
-
 }
