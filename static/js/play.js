@@ -4,12 +4,12 @@ const sound = new Audio()
  button.addEventListener('click', pause)
 
 function playSound(i) {
-    sound.src = i
-    sound.play()
+    sound.src = i;
+    sound.play();
 }
 
 function pause(i) {
-    sound.src = i
-    sound.pause()
+    sound.src = i;
+    sound.pause();
 }
 

@@ -10,7 +10,7 @@ body.fade-out {
     opacity: 0;
     transition: 0.5s;
 }
-.glyphicon-play {
+.main {
  position:absolute;
     top:50%;
     left:50%;
@@ -21,8 +21,8 @@ body.fade-out {
 a:link {
     color:red
 }
-.glyphicon-play:hover{
-    color: red;
+.main:hover{
+    color: green;
     font-size: 250px;
 }
 .glyphicon-arrow-left{

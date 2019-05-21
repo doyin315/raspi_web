@@ -7,6 +7,11 @@ function playSound(i) {
     sound.src = i
     sound.play()
 }
+function pause(i) {
+    sound.src = i;
+    sound.pause();
+}
+
 //const arr = []
 //arr.forEach((path) => {
  //   ReplacingImage(path)
